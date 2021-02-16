@@ -1,0 +1,34 @@
+[
+    {
+      "zip_code": 501,
+      "latitude": 40.922326,
+      "longitude": -72.637078,
+      "city": "Holtsville",
+      "state": "NY",
+      "county": "Suffolk"
+    },
+    {
+      "zip_code": 544,
+      "latitude": 40.922326,
+      "longitude": -72.637078,
+      "city": "Holtsville",
+      "state": "NY",
+      "county": "Suffolk"
+    },
+    {
+      "zip_code": 601,
+      "latitude": 18.165273,
+      "longitude": -66.722583,
+      "city": "Adjuntas",
+      "state": "PR",
+      "county": "Adjuntas"
+    },
+    {
+      "zip_code": 602,
+      "latitude": 18.393103,
+      "longitude": -67.180953,
+      "city": "Aguada",
+      "state": "PR",
+      "county": "Aguada"
+    }
+]

@@ -1,0 +1,162 @@
+.ui-container{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 12px 15px 0px 15px;
+    border-radius: 10px;
+    box-shadow: 14px 14px 40px 0 rgba(0, 0, 0, 0.1);
+    
+}
+.ui-search-container{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 12px 15px 0px 15px;
+    border-radius: 10px;
+    background-color: rgba(5, 5, 5, 0.04);
+    border:1px solid rgba(8, 0, 22, 0.08);
+    /* box-shadow: 14px 14px 40px 0 rgba(0, 0, 0, 0.2); */
+}
+.ui-search-element{
+    height:25px;
+    border:1px solid rgba(8, 0, 22, 0.2);
+}
+  .ui-1w{
+    width: 100%;
+    max-width: 100px;
+   }
+  .ui-2w{
+    width: 100%;
+    max-width: 200px;
+  }
+  .ui-3w{
+    width: 100%;
+    max-width: 300px;
+  }
+  .ui-4w{
+    width: 100%;
+    max-width: 400px;
+  }
+  .ui-5w{
+    width: 100%;
+    max-width: 500px;
+  }
+  .ui-6w{
+    width: 100%;
+    max-width: 600px;
+  }
+  .ui-7w{
+    width: 100%;
+    max-width: 700px;
+  }
+  .ui-8w{
+    width: 100%;
+    max-width: 800px;
+  }
+  .ui-9w{
+    width: 100%;
+    max-width: 900px;
+  }
+  .ui-10w{
+    width: 100%;
+    max-width: 1000px;
+  }
+  .ui-11w{
+    width: 100%;
+    max-width: 1100px;
+  }
+  .ui-12w{
+    width: 100%;
+    max-width: 1200px;
+  }
+  .ui-1h{
+    height: 100%;
+    max-height: 100px;
+   }
+  .ui-2h{
+    height: 100%;
+    max-height: 200px;
+  }
+  .ui-3h{
+    height: 100%;
+    max-height: 300px;
+  }
+  .ui-4h{
+    height: 100%;
+    max-height: 400px;
+  }
+  .ui-5h{
+    height: 100%;
+    max-height: 500px;
+  }
+  .ui-6h{
+    height: 100%;
+    max-height: 600px;
+  }
+  .ui-7h{
+    height: 100%;
+    max-height: 700px;
+  }
+  .ui-8h{
+    height: 100%;
+    max-height: 800px;
+  }
+  .ui-9h{
+    height: 100%;
+    max-height: 900px;
+  }
+  .ui-10h{
+    height: 100%;
+    max-height: 1000px;
+  }
+  .ui-11h{
+    height: 100%;
+    max-height: 1100px;
+  }
+  .ui-12h{
+    height: 100%;
+    max-height: 1200px;
+  }
+
+  table tr {
+    line-height: 10px;
+    min-height: 10px;
+    height: 10px;
+    font-size:13px;
+    
+ }
+ table  td,th 
+ {
+  text-align: center!important; 
+  vertical-align: middle!important;
+  line-height: 1.3;
+  margin:0px 0px 0px 0px;
+  font-size: 15px;
+ }
+ table tr:nth-child(even) {
+  background-color: #eeeeee;
+}
+table tr:nth-child(odd) {
+  background-color: #dadada;
+}
+ 
+tr:hover {background-color:#b6b4b4!important;}
+ .modal-dialog{
+       box-shadow: 0px 15px 40px 0px rgb(0, 0, 0)!important;
+ }
+
+
+ @media only screen and (max-width: 1700px) {
+  /* For mobile phones: */
+  .makezoom {
+    zoom: 80%;
+  }
+}
+@media only screen and (max-width: 1400px) {
+  /* For mobile phones: */
+  .makezoom {
+    zoom: 70%;
+  }
+}
+
+ 
